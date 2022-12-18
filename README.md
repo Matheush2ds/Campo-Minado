@@ -1,3 +1,3 @@
-## Jogo criado durante o período de aula: Prática de Laboratório de Pesquisa
+## Jogo criado durante o período de aula: Linguagem e técnicas de programação
 
-# Campo-Minado.
+# Campo-Minado usando linguagem C.
